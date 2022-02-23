@@ -1,0 +1,535 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plain and short discourse concerning the nature of the Lord's Supper, and the end of celebrating it to which is added, A paraphrase of all those places in the New Testament, wherein the Lord's Supper is mentioned / by John Jeffery ...</title>
+            <author>Jeffery, John, 1647-1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46707</idno>
+            <idno type="STC">Wing J516</idno>
+            <idno type="STC">ESTC R1646</idno>
+            <idno type="EEBO-CITATION">12576313</idno>
+            <idno type="OCLC">ocm 12576313</idno>
+            <idno type="VID">63583</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63583)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 962:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plain and short discourse concerning the nature of the Lord's Supper, and the end of celebrating it to which is added, A paraphrase of all those places in the New Testament, wherein the Lord's Supper is mentioned / by John Jeffery ...</title>
+                  <author>Jeffery, John, 1647-1720.</author>
+               </titleStmt>
+               <extent>31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Rogers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>"A paraphrase upon all the places of the New Testament in which the Lord's Supper is mentioned" has caption title.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63583:1" rendition="simple:additions"/>
+            <p>A PLAIN and SHORT DISCOURSE Concerning the NATURE OF THE <hi>Lord's Supper:</hi> AND THE END of Celebrating it. To which is added, A PARAPHRASE of all thoſe Places in the New Teſtament, wherein the Lord's Supper is mentioned.</p>
+            <p>By JOHN JEFFERY, D. D. Arch-Deacon of <hi>Norwich.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>W. Rogers,</hi> at the <hi>Sun</hi> againſt St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet.</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:63583:2"/>
+            <pb n="3" facs="tcp:63583:2"/>
+            <head>A PLAIN and SHORT DISCOURSE Concerning the Nature of the Lord's Supper.</head>
+            <p>IT has with great wiſdom been always judged fit, That men ſhould be admitted into the Fel<g ref="char:EOLhyphen"/>lowſhip of that Religion they profeſs, by ſome ſolemn Rite of Initiation; and that men ſhould be frequently reminded how their Re<g ref="char:EOLhyphen"/>ligion obliges them to live, by repeated Ceremonies of Commemoration. So it was in all the falſe Re<g ref="char:EOLhyphen"/>ligions that were invented by men; and ſo it has been in the true Religions that were eſtabliſhed by God.</p>
+            <p>Thus men were admitted into the Fellowſhip of the <hi>Jewiſh</hi> Religion, by Circumciſion; and were re<g ref="char:EOLhyphen"/>minded of the Obligations of their Religion by the three yearly Feſtivals. We Chriſtians are admitted into the Fellowſhip of our Religion by Baptiſm, and we are reminded of the Obligations of it by the Lord's Supper. There is but one Baptiſm, as there is but one Admiſſion: We are Baptized but once, be<g ref="char:EOLhyphen"/>cauſe we are admitted into the Number of the Diſciples of Chriſt but once. To pretend, to receive thoſe into the Church of God, who are in it al<g ref="char:EOLhyphen"/>ready, is abſurd; and therefore we are but once Ini<g ref="char:EOLhyphen"/>tiated.</p>
+            <pb n="4" facs="tcp:63583:3"/>
+            <p>But as 'tis neceſſary that they who profeſs the true Religion, ſhould live according to it: So, be<g ref="char:EOLhyphen"/>cauſe men are apt to forget and neglect their Religi<g ref="char:EOLhyphen"/>on, therefore it is requiſite they ſhould be often put in mind of the Obligations they are under from their Religion; and that they be often perſuaded to live as they are obliged.</p>
+            <p>For this great and wiſe Purpoſé, the Lord's Supper is appointed, <hi>viz.</hi> For a Solemn Remembrance of the ſetting up the Religion by the Son of God, our Saviour, at his Death: That by ſuch a ſenſible Com<g ref="char:EOLhyphen"/>memoration, we may be prevailed with to live as Chriſtians. I ſhall,</p>
+            <p>
+               <hi>Firſt,</hi> Manifeſt this to be the Deſign of our Bleſſed Lord in appointing his Supper: And <hi>Secondly,</hi> Draw ſome Inſtructions from thence concerning the Cele<g ref="char:EOLhyphen"/>brating of the Lord's Supper.</p>
+            <div type="part">
+               <p>
+                  <hi>Firſt,</hi> I ſhall manifeſt this to be the Deſign of our Bleſſed Saviour in appointing his Supper, by it to remind his Diſciples of the Obligations they are un<g ref="char:EOLhyphen"/>der from his Religion, and to perſuade them to live according to thoſe Obligations.</p>
+               <p>The Deſign of our Saviour in this Inſtitution, will beſt be underſtood, by the words he uſed when he firſt appointed it; and the meaning of thoſe words muſt be gathered from the uſe of them in the Holy Scripture: And what I have to ſay to this purpoſe, I ſhall comprehend in the following Parti<g ref="char:EOLhyphen"/>culars.</p>
+               <p n="1">1. The <hi>Jewiſh</hi> Religion when it was ſet up, was called the Covenant; and ſince (with reſpect to the Chriſtian Religion) the Firſt and Old Covenant.</p>
+               <p>The Chriſtian Religion alſo is called the Cove<g ref="char:EOLhyphen"/>nant; and (by way of diſtinction from the <hi>Jewiſh</hi> Religion) 'tis called the Second and New Covenant.</p>
+               <p>That the <hi>Jewiſh</hi> Religion was called the Covenant, ſee <hi>Exod.</hi> 24.8. and the word which we there tran<g ref="char:EOLhyphen"/>ſlate Covenant, is in the Tranſlation of the LXX,
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the ſame which is the Title of the Two Volumes of the Scriptures, the <hi>Jewiſh</hi> and Chriſtian; and when uſed in thoſe Scriptures, is tranſlated by Covenant, or Teſtament.</p>
+               <pb n="5" facs="tcp:63583:3"/>
+               <p>As the <hi>Jewiſh</hi> Religion conſidered abſolutely in it ſelf, is called the <hi>Covenant,</hi>
+                  <note place="margin">
+                     <hi>Heb.</hi> 8.6.9, 10. and <hi>Heb.</hi> 9.16, 17. <hi>Heb.</hi> 8.7. v. 8.</note> ſo compared unto the Chriſtian Religion, is called the <hi>Firſt and Old Cove<g ref="char:EOLhyphen"/>nant,</hi> or Teſtament; and the Chriſtian Religion is called the <hi>Second and New Covenant,</hi> or <hi>Teſtament. If the firſt Covenant had been faultleſs, then ſhould no place have been ſought for the ſecond. For finding fault he ſaith, Behold the days come (ſaith the Lord) when I will make a New Covenant,</hi> &amp;c. and,
+<note place="margin">
+                     <hi>Jerem.</hi> 31.31, — 34.</note> 
+                  <hi>In that he ſaith a New Covenant, he hath made the firſt old,</hi> &amp;c.</p>
+               <p>Thus as the <hi>Jewiſh</hi> Religion is called the Firſt and Old Covenant, or Teſtament; ſo the Chriſtian Re<g ref="char:EOLhyphen"/>ligion is called the Second and New Covenant, or Teſtament. And this Title is given to the Books in which the Doctrine of the Chriſtian Religion is con<g ref="char:EOLhyphen"/>tained: The New Teſtament, or Covenant,
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, to diſtinguiſh it from the <hi>Jewiſh</hi> Religion, and the Books in which the Doctrine of that Religi<g ref="char:EOLhyphen"/>on is contained; which is called the Old Teſtament or Covenant,
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>The word
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>ſignifies a Law,
+<note place="margin">Vid. <hi>Grot. ad Tit. N.T.</hi>
+                  </note> and a Cove<g ref="char:EOLhyphen"/>nant, and a Teſtament, or Laſt Will. A Law has the nature of a Covenant; and a Covenant has the Na<g ref="char:EOLhyphen"/>ture of a Law, as <hi>Ariſtotle</hi> obſerves: And ſo we ſome<g ref="char:EOLhyphen"/>times ſpeak, calling the <hi>Jewiſh</hi> Religion the Old Law, and the Chriſtian Religion the New Law. And as a Covenant lays upon men ſuch an Obligati<g ref="char:EOLhyphen"/>on as a Law does; ſo when the Covenant is between Superiors and Inferiors, and eſpecially when it is be<g ref="char:EOLhyphen"/>tween God and men, it comes nearer to the nature of a Law.</p>
+               <p>A laſt Will or Teſtament, has alſo the nature of a Covenant and a Law; for it obliges thoſe who are concerned, according to its Tenor; and they who would receive any Benefit from ſuch a Will or Te<g ref="char:EOLhyphen"/>ſtament, muſt perform the Conditions required in it. And as both theſe Religions were eſtabliſhed by Blood, and the Chriſtian Religion was eſtabliſhed by the Death of Chriſt, ſo the New Covenant has the ſimilitudes of a Will or Teſtament;
+<note place="margin">
+                     <hi>Heb.</hi> 9.16.</note> 
+                  <hi>For where a Te<g ref="char:EOLhyphen"/>ſtament is, there muſt alſo of neceſſity be the death of the Teſtator</hi> (whoſe Will and Teſtament it is.)</p>
+               <p n="2">2. The <hi>Jewiſh</hi> Religion (or the Old and Firſt Co<g ref="char:EOLhyphen"/>venant or Teſtament) was ſet up by Sacrifice; and
+<pb n="6" facs="tcp:63583:4"/>the Blood of the Sacrifice is called the Blood of the Covenant.</p>
+               <p>The Chriſtian Religion (or New and Second Co<g ref="char:EOLhyphen"/>venant or Teſtament) was alſo ſet up by Sacrifice, <hi>i. e.</hi> the Death of Chriſt; and his Blood is called the Blood of the Covenant; and diſtinctly, <hi>The Blood of the New Covenant, or Teſtament.</hi>
+               </p>
+               <p>The <hi>Jewiſh</hi> Religion (the Old and Firſt Covenant or Teſtament) was ſet up by Sacrifice; therefore God ſays concerning the <hi>Jews,
+<note place="margin">
+                        <hi>Pſal.</hi> 50.5.</note> Gather my Saints toge<g ref="char:EOLhyphen"/>ther unto me; thoſe that have made a Covenant with me by Sacrifice.</hi> And how that was done, we may ſee <hi>Exod.</hi> 24.3. <hi>Moſes</hi> (the Mediator of that Covenant between God and the <hi>Jews</hi>) came and told the Peo<g ref="char:EOLhyphen"/>ple all the Words of the Lord, and all the Judg<g ref="char:EOLhyphen"/>ments; and all the People anſwered with one voice, and ſaid,
+<note place="margin">
+                     <hi>Exod.</hi> 24.7.</note> 
+                  <hi>All the words which the Lord hath ſaid, will we do.</hi> The words of this Covenant <hi>Moſes</hi> wrote in a Book, and offered Sacrifice, and took the Book of the Covenant, and Read in the Audience of the People,
+<note place="margin">v. 6.</note> and they ſaid, <hi>All that the Lord hath ſaid, will we do,</hi> and be obedient. And as <hi>Moſes</hi> had ſprinkled half of the Blood upon the Altar of God, ſo he took the other half of the Blood and ſprink<g ref="char:EOLhyphen"/>led it on the People, and ſaid theſe remarkable words,
+<note place="margin">v. 8.</note> 
+                  <hi>Behold the blood of the Covenant which the Lord hath made with you, concerning all theſe words.</hi> Thus God made the Firſt and Old Covenant with the <hi>Jews</hi> by Sacrifice; thus he ſet up the <hi>Jewiſh</hi> Religion.</p>
+               <p>The Chriſtian Religion, or the Second and New Covenant, or Teſtament, was alſo ſet up by the Sa<g ref="char:EOLhyphen"/>crifice of the Death of Chriſt; and for this reaſon, his Blood is called the <hi>Blood of the New Teſtament,</hi>
+                  <note place="margin">
+                     <hi>Matth.</hi> 26.28. <hi>Exod.</hi> 24.8. <hi>Matth.</hi> 26.28. <hi>Mark</hi> 14.24. <hi>Luk.</hi> 22.20. 1 <hi>Cor.</hi> 11.25. 1 <hi>Pet.</hi> 1.2.</note> or <hi>Covenant;</hi> to diſtinguiſh it from the Blood of the Old and Firſt Covenant, or Teſtament. So it is cal<g ref="char:EOLhyphen"/>led, after the example of <hi>Moſes,</hi> and with alluſion to that Expreſſion of his, <hi>Behold the Blood of the Co<g ref="char:EOLhyphen"/>venant.</hi> The Night before our Saviour dy'd, He ſpake of his Blood, as the <hi>Blood of the New Teſtament.</hi> And with ſmall variation of words, to the ſame ſenſe, He ſays, the <hi>New Teſtament in my Blood.</hi>
+               </p>
+               <p>With relation to this, there is mention of <hi>Sancti<g ref="char:EOLhyphen"/>fication and ſprinkling of the Blood of</hi> Jeſus Chriſt. And of thoſe who live contrary to the Religion of
+<pb n="7" facs="tcp:63583:4"/>Chriſt, 'tis ſaid, <hi>Of how much ſorer puniſhment,
+<note place="margin">
+                        <hi>Heb.</hi> 10.29.</note> ſuppoſe ye ſhall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the Cove<g ref="char:EOLhyphen"/>nant, wherewith he was Sanctified, an unholy thing?</hi> By the Blood of the Covenant we are conſecrated and made holy unto God; and if we Sin wilfully contrary to that conſecration, we act as thoſe who account the Blood of that Covenant an unholy thing. By this Blood of the Covenant we are obliged to be holy; and by the Death of Chriſt (whoſe Blood that is) the Chriſtian Religion was ſet up, or the New Covenant eſtabliſhed.</p>
+               <p>And the word ſometimes ſignifies a Teſtament, or Will: <hi>Where a Teſtament is,
+<note place="margin">
+                        <hi>Heb.</hi> 9.16, 17, 18.</note> there muſt alſo of neceſſity be the death of the Teſtator: For a Teſtament is of force after men are dead; otherwiſe it is of no ſtrength at all while the Teſtator liveth: Whereupon neither the firſt Teſtament was dedicated without blood,</hi> &amp;c. where the Apoſtle recounts the hiſtory of ſetting up the <hi>Jewiſh</hi> Religion by Sacrifice, as it is <hi>Exod.</hi> 24.</p>
+               <p n="3">3. The <hi>Jewiſh</hi> Religion (or the Firſt and Old Co<g ref="char:EOLhyphen"/>venant, or Teſtament) was founded upon the <hi>Iſraelites</hi> deliverance out of <hi>Egypt;</hi> as is manifeſt from the Preamble to the Decalogue, which is the words of the Covenant. And the Chriſtian Religion (or Se<g ref="char:EOLhyphen"/>cond and New Covenant, or Teſtament) was found<g ref="char:EOLhyphen"/>ed in the Deliverance or Salvation of Mankind by Jeſus Chriſt.</p>
+               <p>The <hi>Jewiſh</hi> Religion (or the Firſt and Old Cove<g ref="char:EOLhyphen"/>nant, or Teſtament) was founded upon the <hi>Iſraelites</hi> Temporal Deliverance out of <hi>Egypt;</hi> and as <hi>Moſes</hi> was the Deliverer of that People, ſo he was the Me<g ref="char:EOLhyphen"/>diator of that Covenant. This therefore God made the Preamble to his Law of the Ten Command<g ref="char:EOLhyphen"/>ments: <hi>God ſpake all theſe words, ſaying,
+<note place="margin">
+                        <hi>Exod.</hi> 20.1, 2.</note> I am the Lord thy God;</hi> or <hi>Jehovah thy God:</hi> Jehovah being the Name by which God had peculiarly made himſelf known to the <hi>Jews. God ſpake unto Moſes,
+<note place="margin">
+                        <hi>Exod.</hi> 6.2, 3. <hi>Gen.</hi> 17.1, —35.11. —48.3.</note> and ſaid unto him, I am the Lord:</hi> I am Jehovah. And <hi>I ap<g ref="char:EOLhyphen"/>peared unto Abraham, unto Iſaac, and unto Jacob, by the Name of God Almighty:</hi> El-Shaddai. <hi>I am the Al<g ref="char:EOLhyphen"/>mighty God,</hi> I am El-Shaddai. That was the Name whereby God made himſelf known unto <hi>'Abraham, Iſaac,</hi> and <hi>Jacob:</hi> But by my Name <hi>Jehovah</hi> was I
+<pb n="8" facs="tcp:63583:5"/>not known to them. Jehovah was the Name God uſed at the Delivery of the <hi>Jews</hi> out of <hi>Egypt,</hi> and is the Importance of that, I AM That I AM.</p>
+               <p>Thus therefore God prefaced the Decalogue, <hi>I am the Lord</hi> (or Jehovah) <hi>thy God, which have brought thee out of the land of Egypt, out of the houſe of bon<g ref="char:EOLhyphen"/>dage, Thou ſhalt have no other Gods before me,</hi> &amp;c. Thus God mentions the Deliverance of that People out of <hi>Egypt</hi> as the Foundation of the Covenant he made with them. They were the People whom he had re<g ref="char:EOLhyphen"/>deemed from their Enemies, and with them He made this Covenant: The Ten Commandments are called the <hi>Words of the Covenant;</hi> and therefore the Preface to the Ten Commandments is the Foundation of that Covenant.
+<note place="margin">
+                     <hi>Exod.</hi> 34.28. <hi>Deut.</hi> 9.9, 11, 15. <hi>Joſh.</hi> 4.7. <hi>Judg.</hi> 20.27. and 1 <hi>Sam.</hi> 4.3.1 <hi>Chron.</hi> 17.1. <hi>Jer.</hi> 3.16. and <hi>Heb.</hi> 9.4. <hi>Exod.</hi> 24.3. <hi>Deut.</hi> 5.1, &amp;c. 5. <hi>Exod.</hi> 19.5. &amp;c. <hi>Dr.</hi> Light<g ref="char:EOLhyphen"/>foot. V. 1. p. 711. Sect. 24. <hi>Exod.</hi> 19.9, 16, 19.</note> 
+                  <hi>He wrote upon the Tables the Words of the Covenant, the Ten Commandments.</hi> And for this Rea<g ref="char:EOLhyphen"/>ſon, the Tables are called the <hi>Tables of the Covenant.</hi> And theſe Tables were put in the Holy Cheſt, or Ark; which is alſo called the <hi>Ark of the Covenant. Moſes</hi> does indeed ſpeak of more than the Ten Com<g ref="char:EOLhyphen"/>mandments, even <hi>all the Words of the Lord, and all the Judgments;</hi> but the Decalogue was a principal part, as we have ſeen. And <hi>Moſes</hi> puts all together, and inſtances in the Decalogue, <hi>Moſes called all Iſrael and ſaid unto them, Hear O Iſrael, the Statutes and Judgments which I ſpeak in your ears this day, that ye may learn them, and keep and do them. The Lord our God made a Covenant with us in</hi> Horeb; (<hi>i. e.</hi> at Mount <hi>Sinai,</hi> which is the ſame Hill, for one ſide of it was called <hi>Horeb,</hi> and the other ſide was called <hi>Sinai.) The Lord made not this covenant with our fathers, but with us, even with us, who are all of us here alive this day. The Lord talked with you face to face in the mount, out of the midſt of the fire (I ſtood between the Lord and you at that time</hi> (and was Mediator) <hi>to ſhew you the word of the Lord, for ye were afraid by reaſon of the fire, and went not up into the Mount) ſaying, I am the Lord thy God which brought thee out of the land of Egypt, from the houſe of bondage, Thou ſhalt have no other Gods,</hi> &amp;c.</p>
+               <p>The Sabbaths were a ſign that the <hi>Jews</hi> did belong unto God.
+<note place="margin">
+                     <hi>Exod.</hi> 31.13.</note> 
+                  <hi>Verily my ſabbaths ye ſhall keep; for it is a ſign between me and you, throughout your generations; that ye may know that I am the Lord that doth ſanctify
+<pb n="9" facs="tcp:63583:5"/>you.</hi> And in the Fourth Commandment, the reaſon of the Sabbath is given, <hi>viz.</hi> their Deliverance out of <hi>Egypt;
+<note place="margin">
+                        <hi>Deut.</hi> 5.15.</note> Remember that thou waſt a bondman in the land of Egypt, and that the Lord thy God brought thee out thence, with a mighty hand, and with a ſtretched-out arm, therefore the Lord thy God commanded thee to keep the Sabbath-day.</hi>
+               </p>
+               <p>Thus the <hi>Jewiſh</hi> Religion was ſet up, and the Old and Firſt Covenant eſtabliſhed among the <hi>Jews,</hi> with a ſpecial reference to their Deliverance out of <hi>Egypt,</hi> which was a Temporal Salvation.</p>
+               <p>The Chriſtian Religion (or the Second and New Covenant, or Teſtament) was eſtabliſhed upon the Spiritual Deliverance or Salvation of Mankind by Jeſus Chriſt. And the Son of God was the Saviour of Men, and the Mediator of the New Covenant. The Chriſtian Religion was ſet up at and by his Death; and he was the Author of that Religion: <hi>He is the Mediator of the New Teſtament;</hi>
+                  <note place="margin">
+                     <hi>Heb.</hi> 9.15.</note> that by means of Death for the Redemption of the Tranſ<g ref="char:EOLhyphen"/>greſſions that were under the Firſt Teſtament, they which are called, might receive the promiſe of eternal Inheritance. Chriſt <hi>ſaves us from Sin;</hi>
+                  <note place="margin">
+                     <hi>Matt.</hi> 1.21.</note> and this he does by his Death, which is the great Propi<g ref="char:EOLhyphen"/>tiation, and (as ſuch) an Obligation to Repen<g ref="char:EOLhyphen"/>tance; and an aſſurance of Pardon.
+<note place="margin">
+                     <hi>Luke</hi> 24.47.</note> So <hi>Repentance and Remiſſion of Sins are preached in his Name.</hi>
+               </p>
+               <p>The Sacrifice of Propitation did of old imply a Profeſſion of Repentance, and an Aſſurance of Par<g ref="char:EOLhyphen"/>don: And the Sacrifice of the Death of Chriſt, does moſt indiſpenſably bind us to repent, and moſt ſtrongly aſſure us of Forgiveneſs.
+<note place="margin">
+                     <hi>Eph.</hi> 1.7.</note> 
+                  <hi>In whom we have redemption through his blood, the forgiveneſs of ſins, ac<g ref="char:EOLhyphen"/>cording to the riches of his grace.</hi> And,
+<note place="margin">
+                     <hi>Matt.</hi> 26.28.</note> 
+                  <hi>My blood of the New Teſtament, which is ſhed for many, for the Remiſſion of Sins.</hi>
+               </p>
+               <p>Thus was the Chriſtian Religion ſet up (or the New Covenant eſtabliſhed) by the Death of Chriſt our Saviour, and is ſounded in that Salvation which he wrought out for us.</p>
+               <p n="4">4. The <hi>Jewiſh</hi> Feaſts were a Commemoration of the ſetting up the <hi>Jewiſh</hi> Religion (or Old and Firſt
+<pb n="10" facs="tcp:63583:6"/>Covenant or Teſtament) and the Lord's Supper is a Commemoration of the ſetting up the Chriſtian Re<g ref="char:EOLhyphen"/>ligion: or the New and ſecond Covenant, or Teſta<g ref="char:EOLhyphen"/>ment.</p>
+               <p>The <hi>Jewiſh</hi> Feaſts were a Commemoration of the ſetting up of the <hi>Jewiſh</hi> Religion, and were deſign<g ref="char:EOLhyphen"/>ed to remind them of the Obligations of their Re<g ref="char:EOLhyphen"/>ligion; and to perſuade them to live according to thoſe Obligations.</p>
+               <p>Thoſe Feaſts were Three, <hi>viz.</hi> That of the <hi>Paſſa<g ref="char:EOLhyphen"/>ver,</hi> that of <hi>Pentecoſt,</hi> and that of <hi>Tabernacles.</hi> The Feaſt of the <hi>Paſſover</hi> was kept in Memory of the <hi>If<g ref="char:EOLhyphen"/>raelites</hi> Deliverance out of <hi>Egypt.</hi>
+                  <note place="margin">
+                     <hi>Exod.</hi> 12.</note> In which the Co<g ref="char:EOLhyphen"/>venant God made with them, or the Religion that God eſtabliſhed among them, was founded. The Feaſt of <hi>Pentecoſt</hi> was kept in Memory of the Delivering of the Law at Mount <hi>Sinai;</hi>
+                  <note place="margin">
+                     <hi>Exod.</hi> 19. 1, —11.</note> where God made his Covenant with the <hi>Jews,</hi> or ſet up the <hi>Jewiſh</hi> Religion. The Feaſt of <hi>Tabernacles</hi> was kept in Memory of the <hi>Jews</hi> dwelling in Tents in the Wilderneſs:
+<note place="margin">
+                     <hi>Levit.</hi> 23.42, 43.</note> 
+                  <hi>Ye ſhall dwell in booths ſeven days, that your generations may know that I made the children of Iſ<g ref="char:EOLhyphen"/>real to dwell in booths, when I brought them out of the land of Egypt.</hi>
+               </p>
+               <p>But there was more in this Feaſt, than meerly this Remembrance of their Fathers dwelling in Taberna<g ref="char:EOLhyphen"/>cles in the Wilderneſs; for God had declared, He would dwell among them, and had ordered a Taber<g ref="char:EOLhyphen"/>nacle to be Built for that purpoſe. But when the <hi>Jews</hi> broke his Covenant by their Worſhipping the Golden Calf, God put a ſtop to the Building his Tabernacle, till <hi>Moſes</hi> had interceeded with God for their Pardon; and having obtained it, and a ſecond Copy of the Law in Tables of Stone, <hi>Moſes</hi> came down from the Mount with the glad Tidings, That God would dwell among them, and that they ſhould proceed in Building his Tabernacle: So they pitched the Tent, and went on with the work, and kept that day, <hi>viz.</hi> the Tenth day of the Seventh Month (the Firſt day of the Feaſt of Tabernacles) as the day of Expiation, and the reſt of the Feſtival with exceed<g ref="char:EOLhyphen"/>ing Joy, in remembrance that God would dwell among them.</p>
+               <pb n="11" facs="tcp:63583:6"/>
+               <p>Thus the <hi>Paſſover</hi> did commemorate their Deliver<g ref="char:EOLhyphen"/>ance out of <hi>Egypt;
+<note place="margin">
+                        <hi>D.</hi> L. V. 1. p. 477, and 964, &amp;c. <hi>Lev.</hi> 23.34, &amp;c. <hi>D.</hi> L. V. 1. p. 715. Sect. 30.</note> Pentecoſt</hi> the Delivering of the Law; <hi>Tabernacles</hi> the Dwelling of God among them. And all together, the ſetting up of the <hi>Jewiſh</hi> Reli<g ref="char:EOLhyphen"/>gion, and their Obligations to live according to that Religion.</p>
+               <p>The Lord's Supper is a like Commemoration of the ſetting up the Chriſtian Religion (the Second or New Covenant) which was hy the Death of Chriſt. Our Bleſſed Saviour appointed this Supper the Night be<g ref="char:EOLhyphen"/>fore he Died, and commanded his Diſciples to cele<g ref="char:EOLhyphen"/>brate it in Remembrance of him who was the Au<g ref="char:EOLhyphen"/>thor of their Salvation, and of their Religion: He ſaid, <hi>This do in Remembrance of me:</hi>
+                  <note place="margin">
+                     <hi>Luke</hi> 22.19. 1 <hi>Cor.</hi> 11.24. v. 25, 26.</note> And in another place, <hi>This do in Remembrance of me. Drink it in Re<g ref="char:EOLhyphen"/>membrance of me.</hi> And <hi>as often as ye eat this Bread, and drink this Cup, ye do ſhew forth the Lord's death till he come.</hi>
+               </p>
+               <p>The Body of Chriſt was to ſuffer upon the Croſs; his Blood was to be poured out, <hi>i. e.</hi> He was to Die. This Death of Chriſt was the Expiation of Sins; and at the Death of Chriſt the Chriſtian Religion was ſet up: By the Death of Chriſt, the New Co<g ref="char:EOLhyphen"/>venant was eſtabliſhed. So that as the Lord's Supper is a Commemoration of the Death of Chriſt, and as that had reference to the New Covenant in his Blood (or the Religion that he ſet up) ſo the Lord's Supper is a Remembrance of the ſetting up the Chriſtian Religion, at and by the Death of Chriſt.</p>
+               <p>And as we are by Baptiſm initiated and admitted into the Fellowſhip of the Religion of Chriſt; ſo by the Lord's Supper we are reminded of the ſet<g ref="char:EOLhyphen"/>ting up this Religion; and of the Obligations this Religion lays upon us. This is manifeſt from the words of our Bleſſed Saviour, when he firſt Cele<g ref="char:EOLhyphen"/>brated and Inſtituted his Supper. This Religious Feaſt of Bread and Wine, is a Remembrance of the ſetting up the Chriſtian Religion, by and at the Death of Chriſt. And the Body of Chriſt was wounded, the Blood of Chriſt was ſpilt at his Death. His Blood was the Blood of the New Co<g ref="char:EOLhyphen"/>venant, (or that by which the Chriſtian Religion
+<pb n="12" facs="tcp:63583:7"/>was eſtabliſhed) as the Blood of the Sacrifice was the Blood of the Old Covenant, by which the <hi>Jewiſh</hi> Religion was ſet up.</p>
+               <p>The Bread in the Lord's Supper,
+<note place="margin">
+                     <hi>Body,</hi> i. e. <hi>Death</hi> (viz. <hi>of Christ.</hi>) V. <hi>Rom.</hi> 7.4. and 1 <hi>Cor.</hi> 11.27.</note> is the Sign or Re<g ref="char:EOLhyphen"/>membrance of Chriſt's <hi>Body</hi> broken: The Wine in the Lord's Supper, is the Sign or Remembrance of Chriſt's Blood poured out. <hi>i. e.</hi> They are together the Remembrance of his Death, at and by which, the New Covenant was eſtabliſhed, or the Chriſtian Religion was ſet up.</p>
+               <p>And as the great Events, and the Feſtival Solem<g ref="char:EOLhyphen"/>nities of the <hi>Jews</hi> were Types of Chriſt; ſo the Three Feſtivals did concentre in him. The <hi>Jews</hi> Deliverance out of <hi>Egypt,</hi> was a Type of our Sal<g ref="char:EOLhyphen"/>vation by Chriſt; and as this Deliverance was com<g ref="char:EOLhyphen"/>memorated by the Paſſover, ſo Chriſt Died at that Feaſt. And as the Delivering of the Law, and ſet<g ref="char:EOLhyphen"/>ing up the <hi>Jewiſh</hi> Religion, and eſtabliſhing the Old Covenant, was Typical of Chriſtianity; ſo, at the Feaſt of <hi>Pentecoſt</hi> (by which the <hi>Jews</hi> commemora<g ref="char:EOLhyphen"/>ted the eſtabliſhment of that Covenant) the <hi>Holy Ghoſt</hi> came upon the Apoſtles,
+<note place="margin">
+                     <hi>Acts</hi> 2.</note> and by that the Chri<g ref="char:EOLhyphen"/>ſtian Religion was compleated and confirmed. And as the Feaſt of <hi>Tabernacles</hi> was a Memorial of God's dwelling among the Religious <hi>Jews;</hi> ſo (if Chriſt was Born at that time) <hi>God did dwell,</hi>
+                  <note place="margin">
+                     <hi>John</hi> 1.14. <hi>Iſ.</hi> 7.14.</note> or <hi>Tabernacle in our Fleſh;</hi> and Chriſt was <hi>Immanuel,</hi> or <hi>God with us.</hi>
+               </p>
+               <p>What theſe Three Feſtivals were unto the <hi>Jews, viz.</hi> Memorials of God's ſetting up his True Religi<g ref="char:EOLhyphen"/>on among them, with the Obligations and Advan<g ref="char:EOLhyphen"/>tages thereof: The ſame the Lord's Supper is to us Chriſtians, <hi>viz.</hi> a Memorial of God's ſetting up his True Religion among us, by the Death of his Son, together with the Obligations and Advantages there<g ref="char:EOLhyphen"/>of. Thus we ſee the true meaning of the Lord's Supper; the Doctrine of which (as contained in the Holy Scripture) is briefly this.</p>
+               <p n="1">1. The <hi>Jewiſh</hi> Religion when it was ſet up, was called the Covenant, and ſince (with reſpect to the Chriſtian Religion) the Firſt and Old Covenant. The Chriſtian Religion is alſo called the Covenant, and (by way of diſtinction from the <hi>Jewiſh</hi> Reli<g ref="char:EOLhyphen"/>gion) the Second and New Covenant.</p>
+               <pb n="13" facs="tcp:63583:7"/>
+               <p n="2">2. The <hi>Jewiſh</hi> Religion (or the Old and Firſt Co<g ref="char:EOLhyphen"/>venant, or Teſtament) was ſet up by Sacrifice; and the Blood of the Sacrifice, is called the Blood of the Covenant. So alſo the Chriſtian Religion (or New and Second Covenant, or Teſtament) was ſet up by Sacrifice, <hi>i. e.</hi> the Death of Chriſt; and his Blood is called the Blood of the Covenant; and diſtinctly, The Blood of the New Covenant, or Teſtament.</p>
+               <p n="3">3. The <hi>Jewiſh</hi> Religion (or the Firſt and Old Co<g ref="char:EOLhyphen"/>venant, or Teſtament) was founded upon the <hi>Iſ<g ref="char:EOLhyphen"/>raelites</hi> Deliverance out of <hi>Egypt;</hi> as is manifeſt from the Preamble to the Decalogue (or Ten Com<g ref="char:EOLhyphen"/>mandments) which is the words of the Covenant. And the Chriſtian Religion (or Second and New Covenant, or Teſtament) is founded in the Deliver<g ref="char:EOLhyphen"/>ance and Salvation of Mankind by Jeſus Chriſt.</p>
+               <p n="4">4. The <hi>Jewiſh</hi> Feaſts were a Commemoration of the ſetting up the <hi>Jewiſh</hi> Religion (or Old and Firſt Covenant, or Teſtament) and the Lord's Supper is a Commemoration of the ſetting up the Chriſtian Religion, or the New and Second Covenant, or Te<g ref="char:EOLhyphen"/>ſtament.</p>
+               <p>
+                  <hi>The Law was our Schoolmaſter to bring us to Chriſt.</hi>
+                  <note place="margin">
+                     <hi>Gal.</hi> 3.24.</note> The <hi>Jewiſh</hi> Religion was a preparative for the Chri<g ref="char:EOLhyphen"/>ſtian; and in theſe things there is a ſimilitude be<g ref="char:EOLhyphen"/>tween what was done at the ſetting up the <hi>Jewiſh</hi> Religion, and for the Commemoration of it; and what was done at the ſetting up of the Chriſtian Religion, and the proviſion for the Commemoration of it. Alſo the Words and Phraſes uſed concerning both the Religions are alike; and we ſhall underſtand what is meant by thoſe phraſes which are uſed con<g ref="char:EOLhyphen"/>cerning the ſetting up of the Chriſtian Religion (at and by the Death of Chriſt), if we conſider what is meant by the like Phraſes uſed concerning the ſet<g ref="char:EOLhyphen"/>ing up the <hi>Jewiſh</hi> Religion, and the Commemoration thereof.</p>
+               <p>The Deſign of both Commemorations was to per<g ref="char:EOLhyphen"/>ſuade thoſe who profeſs the True Religion, to live according to that Religion which they profeſs.</p>
+               <p>Thus have I manifeſted, what the deſign of our Bleſſed Saviour was in appointing the Lord's Supper: To remind his Diſciples of the ſetting up his Religi<g ref="char:EOLhyphen"/>on
+<pb n="14" facs="tcp:63583:8"/>on by his Death; and to remind them of the Obli<g ref="char:EOLhyphen"/>gations they are under therefrom, and the Advan<g ref="char:EOLhyphen"/>tages they are capable of thereby.</p>
+            </div>
+            <div type="part">
+               <p n="2">II. I ſhall make ſome Inferences from hence, by way of Inſtruction, concerning our Celebrating the Lord's Supper, <hi>viz.</hi> Concerning the Preparation ne<g ref="char:EOLhyphen"/>ceſſary thereunto. 2. The Exerciſes of Devotion thereat: And, 3. The Life which muſt be conſequent thereupon, and which we are influenced unto thereby.</p>
+               <p n="1">1. We may from hence learn what Preparation is neceſſary to the Celebrating the Lord's Supper, <hi>viz.</hi> Such a Reſolution of living according to this Religi<g ref="char:EOLhyphen"/>on, as will be effectual; for if the Deſign of the Lord's Supper be a Remembring the ſetting up the Religion of Chriſt by his Death; then we who ſo<g ref="char:EOLhyphen"/>lemuly remember this in obedience to his Command, muſt do it with a Reſolution to live according to this Religion; the ſetting up of which we Remem<g ref="char:EOLhyphen"/>ber. When the <hi>Jews</hi> were to receive the Law at Mount <hi>Sinai,</hi> where the Old and Firſt Covenant, or Teſtament, was eſtabliſhed, where the <hi>Jewiſh</hi> Religi<g ref="char:EOLhyphen"/>on was ſet up;
+<note place="margin">
+                     <hi>Exod.</hi> 19.10. v. 14, &amp;c.</note> the People were to <hi>Prepare themſelves</hi> that day: And <hi>Moſes</hi> received a command to <hi>Sanctiſy the People,</hi> and he did it. That Preparation was Ri<g ref="char:EOLhyphen"/>tual, but the words in which their conſent was re<g ref="char:EOLhyphen"/>quired, ſhew that the Preparation was Spiritual, <hi>viz.</hi>
+                  <note place="margin">
+                     <hi>Exod.</hi> 24.3, 7.</note> A Preparation to declare with truth that they <hi>would live</hi> according to the Religion God ſet up among them. And as their Feſtival Memorials centred in this, <hi>viz.</hi> A Remembrance of the Religion God had ſet up among them; ſo the Spiritual Preparation for the Feſtival, was their ſteady and effectual Reſoluti<g ref="char:EOLhyphen"/>ons to live according to that Religion, the ſetting up of which they ſolemnly Remembred.</p>
+               <p>And ſo it is with us, we are then prepared ac<g ref="char:EOLhyphen"/>ceptably to Remember the ſetting up the Chriſtian Religion by the Death of Chriſt; when we are un<g ref="char:EOLhyphen"/>changeably and effectually reſolved to live according to that Religion. And as the Lord's Supper is that Memorial; ſo our Preparation for the Lord's Supper, is no other than a Preparation of Mind to live ac<g ref="char:EOLhyphen"/>cording
+<pb n="15" facs="tcp:63583:8"/> to that Religion, the ſetting up of which the Lord's Supper is a Memorial of.</p>
+               <p>The <hi>Jews</hi> did diſtinctly Remember their Deliver<g ref="char:EOLhyphen"/>ance out of <hi>Egypt,</hi> and God's dwelling among them, firſt in the Tabernacle, and then in the Tem<g ref="char:EOLhyphen"/>ple. They did alſo remember the giving of the Law, eſtabliſhing the Covenant, and ſetting up their Religion; and all the Joy and Thankfulneſs for the Benefits of being God's People pointed to this, Their living according to his Religion. And ſo we Chriſtians may well Remember the Salvation by Chriſt, and the Inhabitation of God by the Holy Ghoſt, and the ſetting up our Holy Religion: But all our Joy and Thankfulneſs muſt centre in our li<g ref="char:EOLhyphen"/>ving according to our Religion. Nor can there be any other preparation for the Thankſgiving at the Lord's Supper (for that Euchariſtical Devotion) but a full Preparation of Mind to live according to that Religion, the ſetting up of which by the Son of God, at his death, we do commemorate.</p>
+               <p n="2">2. Our Devotions at the Lord's Supper muſt be of the ſame nature; we muſt conſider well, what the Religion we Profeſs is: Who the Author of it, <hi>viz.</hi> The Son of God Incarnate: And what the Eſtabliſh<g ref="char:EOLhyphen"/>ment of it, <hi>viz.</hi> The Death of him. And as there are peculiar Conſiderations of every one of theſe, ſo we muſt affect our Hearts with thoſe Conſiderati<g ref="char:EOLhyphen"/>ons; that they may prevail with us then to reſolve as the <hi>Jews</hi> did, at the ſetting up their Religion; All that the Lord hath ſaid we will do, and be obe<g ref="char:EOLhyphen"/>dient.</p>
+               <p>Thus to remember Chriſt at his death, is conſider<g ref="char:EOLhyphen"/>able; and they who do thus Celebrate the Lord's Supper, are in no danger of eating and drinking un<g ref="char:EOLhyphen"/>worthily. But thoſe who ſolemnly remember the Death of their Saviour, and the ſetting up his Reli<g ref="char:EOLhyphen"/>gion thereby, without any true and laſting Intention to live as that Religion obliges them: They who pretend to celebrate this Memorial, when they re<g ref="char:EOLhyphen"/>ſolve to live Wickedly, and contrary to that Reli<g ref="char:EOLhyphen"/>gion; and ſo tread under foot the Son of God, and count the Blood of the Covenant (His Blood) wherewith they were Sanctified, an unholy thing: They are guilty of the Body and Blood of our Lord,
+<pb n="16" facs="tcp:63583:9"/>and Eat and Drink Judgment to themſelves, not diſcerning the Lord's Body; not diſtinguiſhing the Death of Chriſt in that Remembrance as they ought to do.</p>
+               <p>The Lord's Supper if it be celebrated aright, is it ſelf a Preparation to a Religious Life; and a Re<g ref="char:EOLhyphen"/>folution for a Religious Life, is the ſummary Pre<g ref="char:EOLhyphen"/>paration for that Supper. Nor can we with a ſincere Joy and Thankfulneſs, remember the ſetting up our Religion by the Death of Chriſt, unleſs we love our Religion, and reſolve to live Religiouſly.</p>
+               <p n="3">3. The Life conſequent to this Commemoration, muſt be agreeable to that Religion, the ſetting up of which we commemorate. The <hi>Jews</hi> did not remem<g ref="char:EOLhyphen"/>ber what God had done for them, and what Religion he had ſet up among them, meerly for the Remem<g ref="char:EOLhyphen"/>brance ſake; but they remembred the ſetting up their Religion, That they might be perſuaded by ſuch Remembrance to live according to their Religion. They did therefore remember what God had done for them, and what God would do for the Religious, to this end, that they might be perſuaded to live ac<g ref="char:EOLhyphen"/>cording to his Religion ſet up among them. And ſo we Chriſtians Remember the ſetting up our Religion by the Death of Chriſt; not meerly and ultimately for remembrance ſake, but that by ſuch remembrance we might be perſuaded to live Religiouſly. And for this ſame end we remember what the Son of God has done for us, and what he will do for the Reli<g ref="char:EOLhyphen"/>gious; that by ſuch Remembrance we may be per<g ref="char:EOLhyphen"/>ſuaded to live Religiouſly according to his Inſtitu<g ref="char:EOLhyphen"/>tion.</p>
+               <p>A Religious Life, according to the Goſpel of the Son of God, is neceſſary to our Eternal Happineſs; und the Memorial of the Lord's Supper, is in order to that Religious Life. If after the Lord's Supper, we do live Religiouſly (through the influence of the Remembrance there Celebrated) we then receive the Lord's Supper to good and great purpoſe; but if we do not ſo live Religiouſly after it, the Lord's Supper is in vain to us.</p>
+               <p>Let us not therefore, if we be Wicked, deceive our ſelves by a falſe and prepoſterous Notion of things. There is not any Ritual Preparation for the
+<pb n="17" facs="tcp:63583:9"/>Lord's Supper, by the Devotions of a Week before, that can qualify impenitent Sinners to receive they know not what Benefit thereby, and they know not how. The Lord's Supper is to a wiſe and ſerious Chriſtian, an Obligation to a Religious Life, and that Religious Life muſt be according to the Goſpel, in which we ſee what that Religion was which Chriſt ſet up at his Death, which we Remember in his Supper.</p>
+               <p>To Conclude, When we are about to Celebrate the Lord's Supper (which is called the Communion, or Fellowſhip of his Body and Blood) we muſt conſider how St. <hi>Paul</hi> exhorts us to approve our ſelves to God, when we Eat this Bread, and Drink this Cup. For the Lord's Supper is not like our own Meals (in which we Eat and Drink for natural Neceſſity or Pleaſure), but it is, a Religious Per<g ref="char:EOLhyphen"/>formance, in which we remember the Death of our Saviour, and the Obligations to our Religion. And as the Privilege of thoſe is very great, who by Re<g ref="char:EOLhyphen"/>pentance, and Faith, and Obedience, are true Diſci<g ref="char:EOLhyphen"/>ples of Chriſt; and as they rightly Commemorate his Death, in W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ole Life, the Life of Chriſt is ma<g ref="char:EOLhyphen"/>nifeſt ſo their Condemnation is juſt, who notwith<g ref="char:EOLhyphen"/>ſtanding that the ſo often Remember the Death of Chriſt (<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which and by which the Religion which they Profeſs was ſet up) yet do not live as his Diſtiples, bus as his Enemies. They ſin againſt the Death of Chriſt, and unleſs they truly and effectu<g ref="char:EOLhyphen"/>ally Repent, and Amend, his Blood will be upon them to their eternal Deſtruction. Nor are they ſure to eſcape the Judgments of God even in this World, who ſo highly provoke him by their pre<g ref="char:EOLhyphen"/>ſumptuous Wickedneſs.</p>
+               <p>Conſider therefore well with your ſelves, what the Temper of your Hearts and the Courſe of your Lives are: Whether you be ſuch as God does Ap<g ref="char:EOLhyphen"/>prove, or ſuch as God does Condemn. Renew your Repentance, exerciſe your Faith amend what is amiſs in your Lives; love God above all things, and love your Neighbour as you love your ſelves: Live Soberly, Righteouſly, and Godly in this preſent World; and let the Remembrance of the Death of
+<pb n="18" facs="tcp:63583:10"/>Chriſt prevail with you ſo to live. Give alſo un<g ref="char:EOLhyphen"/>feigned Thanks and Praiſe unto God, for ſending his Son into the World to ſave Mankind from Sin; and who to this end lived ſubject to the Afflictions of this mortal State, and ſuffered the painful and cur<g ref="char:EOLhyphen"/>ſed Death of the Croſs for us; when we had de<g ref="char:EOLhyphen"/>ſerved the worſt we could ſuffer by our Sins; which Sins we are obliged by the Blood of our Saviour, and by the hopes of Pardon, to forſake. And to the end that the Conſideration of the Love of Chriſt (in Living and Dying for us) might never be forgotten, but might eflectually prevail upon us to live as his Redeemed, He has appointed this his Supper to be often Celebrated in Remembrance of him and his Death. For this purpoſe, when we are Aſſembled at the proper time and place, let us call to mind what the Son of God has done and ſuffer<g ref="char:EOLhyphen"/>ed for us; and let us give Glory to God for this in<g ref="char:EOLhyphen"/>eſtimable Mercy, and let us Devote our ſelves (Souls and Bodies) unto Him, which is our reaſonable Service.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <p>MOST great and glorious God the God and Father of our Lord Jeſus Christ, by whoſe name we are called. We do not pre<g ref="char:EOLhyphen"/>ſent our ſelves before thee with any confidence in our own righteouſneſs, but humbly confeſs our ſins, and implore the forgiveneſs of them. We are wretched duſt and aſhes, leſs than, the leaſt of all thy mercies, and have deſerved the ſevereſt of thy judgments. But thou haſt aſſured us by thy Son, our Saviour, that thou wilt pardon the ſins of thoſe who repent, and live religiouſly; and thou haſt obliged us by this bleſſed hope ſo to do.</p>
+            <p>We depend upon thy promiſe in Christ, and aſſure our ſelves of thy grace to enable and di<g ref="char:EOLhyphen"/>ſpoſe
+<pb n="19" facs="tcp:63583:10"/>us to live as he lived; and we cannot but approve thoſe ſacred obligations which the death of thy Son has laid upon us. Grant that the remembrance thereof which we celebrate in his Supper, may for ever abide upon our Souls, and constrain us to live unto him, who died for us; that we may at laſt live for ever with him, and give glory unto thee who hast re<g ref="char:EOLhyphen"/>deemed us by his blood. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <p>THE Bread which we break, is the Memorial of the Body of our Lord Jeſus Chriſt, its being given for men, as the Propitiation for Sin; we take and eat this in Remembrance of Him.</p>
+            <p>The Wine which we drink, is the Me<g ref="char:EOLhyphen"/>morial of the Blood of our Lord Jeſus Chriſt, which was ſhed for men for the Remiſſion of Sins; we drink this in Re<g ref="char:EOLhyphen"/>membrance of Him.</p>
+            <p>As often as we eat this Bread, and drink this Wine, we do ſhew forth the Lord's Death; by which we are obliged to Repent and live Religiouſly, <hi>i. e.</hi> So<g ref="char:EOLhyphen"/>berly, Righteouſly, and Godly; and by which the Religious are aſſured of the Pardon of their Sins, and of Eternal Happineſs. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="paraphrase">
+            <pb n="20" facs="tcp:63583:11"/>
+            <head>A PARAPHRASE upon all the Places of the <hi>New Teſta<g ref="char:EOLhyphen"/>ment</hi> in which the Lord's Supper is mentioned, <hi>viz. Matth.</hi> 26.26, —30. And <hi>Mark</hi> 14.22, —26. And <hi>Luke</hi> 22.19, 20. And 1 <hi>Cor.</hi> 10.15, 16, 17, 21. And 1 <hi>Cor.</hi> 11.17, —<hi>f.</hi>
+            </head>
+            <p>As for <hi>John</hi> 6. In that Diſcourſe the Lord's Supper was not <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was it, till a conſiderable time after that Diſco<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Inſtitued. At the time of that Diſcourſe, there was no ſuch thing, as the Lord's Supper to be ſpoken <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>If the Agreeableneſs of the Phraſes uſed in that diſcourſe (<hi>John</hi> 6.) with the Phraſes uſed in The Inſtitution of the Lord's Supper, prove that di<g ref="char:EOLhyphen"/>ſcourſe (<hi>John</hi> 6.) to be a deſcription of the Lord's Supper; then may the like agreeableneſs of Phraſes uſed <hi>Iſa.</hi> 25.6. and at the Inſtitution of the Lord's Supper, prove that of the Prophet to be a Predicti<g ref="char:EOLhyphen"/>on concerning the Lord's Supper.</p>
+            <p>But, in truth, there is no ſuch agreeableneſs of the Phraſes uſed, <hi>John</hi> 6. and thoſe uſed at the Inſtitution of the Lord's Supper. At the Inſtituti<g ref="char:EOLhyphen"/>on of the Lord's Supper our Saviour ſaid of the Bread, <hi>This is my Body;</hi> and <hi>John</hi> 6. our. Saviour called his. Body Bread, as in the Lord's Supper he called Bread his Body.</p>
+            <p>
+               <hi>John</hi> 6.5, —14. Our Saviour fed the People with a miraculous multiplication of Loaves, and
+<pb n="21" facs="tcp:63583:11"/>
+               <hi>v.</hi> 26. he complained that they followed him (<hi>v.</hi> 22,—25.) not for Inſtruction, but for the Loaves. And as his cuſtom was (<hi>John</hi> 4.7, 10, 13, 14, — and <hi>v.</hi> 8, 31, 32, 33, 34.) taking a Similitude from the occaſion, <hi>v.</hi> 27. calls his Doctrine Bread, and ex<g ref="char:EOLhyphen"/>horts them to mind that Doctrine. His Hearers not regarding his manner of Speech, gave a further occa<g ref="char:EOLhyphen"/>ſion to him to enlarge upon it, and to explain it: When they ſpake of that Manna, the Bread from Heaven which their Forefathers eat, <hi>v.</hi> 31. Our Saviour therefore calls himſelf the Bread that came down from Heaven, <hi>v.</hi> 32, 33. and their Conference proceeds in that form of ſpeech, <hi>v.</hi> 34, 35, 41, 42, 47, —52. though eating that Bread was nothing but believing that Doctrine, <hi>v.</hi> 28, 29, 36, 40. And becauſe the People ſaid, <hi>v.</hi> 52. <hi>How can this man give us his fleſh to eat?</hi> he adds, <hi>v.</hi> 53, —58. under the ſame ſimilitude, the neceſſity of believing in him as their Saviour. And becauſe they objected, that it was impoſſible to do what he ſaid was neceſſary, <hi>viz.</hi> uſing ſtill the firſt ſimilitude of eating his fleſh, he cells them, <hi>v.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> That they miſtook him, for he meant only <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> spiritual sense <hi>viz.</hi> To receive him as the promiſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Meſſiah. In <hi>Matth.</hi> 26. he calls Bread <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Body; and <hi>John</hi> 6. he calls his Body Bread If the Bread is his Body, becauſe he called it ſo, then with as good reaſon, his Body was Bread, becauſe he called it Bread. Is the Bread in the Lord's Supper, Chrſſt's Body? And when we eat That Bread, Do we eat his Body? Then is Chriſt's Body Bread <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And 'twas Bread which lived in <hi>Judea,</hi> and taught out Religion, and wrought Miracles: 'Twas Bread that Died and Roſe again, and Aſcend<g ref="char:EOLhyphen"/>ed into Heaven, as it came down from thence. <hi>Joh.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 31. But both are abſurd Suppoſitions; and both are only Forms of Speech. In <hi>Joh.</hi> 6. there is not one Word concerning the Lord's Supper: And the other Places of the New Teſtament, are all in which the Lord's Supper is ſpoken of.</p>
+            <div n="1" type="part">
+               <pb n="22" facs="tcp:63583:12"/>
+               <head>I. <hi>Matth.</hi> 26.26, —30.</head>
+               <p>[<hi>V.</hi> 26.] AS Chriſt was born in the Jewiſh Na<g ref="char:EOLhyphen"/>tion, ſo he lived according to the Jewiſh Religion; and with his Diſciples, who were alſo <hi>Jews,</hi> kept their Paſſover: The Inſtitution whereof you may read <hi>Ex.</hi> 12. And it was at the time of the Paſſover that Chriſt dy'd. As Chriſt and his Diſciples were eating the Paſſover together, Je<g ref="char:EOLhyphen"/>ſus took Bread, according to their Cuſtom (He be<g ref="char:EOLhyphen"/>ing the Chief of the Company) and brake it in pieces, and gave it to the Diſciples, uſing theſe words as he delivered it: <hi>Take and Eat.</hi> And to diſtinguiſh this Bread (which he gave his Diſciples at the Paſs<g ref="char:EOLhyphen"/>over-Supper) from that Morſel of Bread which was uſually eaten by the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at the Paſſover, with a particular Thankſgiving Chriſt added, <hi>This is my Body. i. e.</hi> This Bread which I now give you, is not any Part of the Paſſovers, as the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (being <hi>Jews</hi>) might be apt to imagine<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſays Chriſt) This is an Appointment of my own.</p>
+               <p>[<hi>v.</hi> 27.] Alſo he took a Cup full of Wine (a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it was Cuſtomary for the <hi>Jews</hi> to do at the Paſſover, giving Thanks unto God at the drinking of it) and Chriſt gave Thanks unto God, and gave the Cup to his Diſciples, and bid them every one drink of it And</p>
+               <p>[<hi>v.</hi> 28.] To diſtinguiſh this his Cup of Bleſſing from that which was uſed by the <hi>Jews</hi> at their Paſſover, and which they alſo call'd the Cup of Bleſſing, or Thankſgiving; Chriſt added, This is my Blood of the New Teſtament. <hi>i. e.</hi> Whereas the Blood of that Sacrifice, which was offered, when the Old Teſtáment or Covenant, <hi>i. e.</hi> the Jewiſh Religi<g ref="char:EOLhyphen"/>on was ſet up, <hi>Ex.</hi> 24.8. was called by <hi>Moſes</hi> the Blood of that Covenant (or Teſtament); Chriſt cal<g ref="char:EOLhyphen"/>led his Blood the Blood of the New Teſtament, or Covenant; and this Blood was to be ſhed at his Death; when the Chriſtian Religion was to be ſet up. And this Wine, which was intended as a Memo<g ref="char:EOLhyphen"/>rial
+<pb n="23" facs="tcp:63583:12"/>of his Death, is called his Blood; as the Sign bears the Name of the Thing ſignified.</p>
+               <p>Chriſt adds, that this Blood of his was to be ſhed, not for <hi>Jews</hi> only, as the Blood of the Old Cove<g ref="char:EOLhyphen"/>nant, or Teſtament was; but for the <hi>Gentiles</hi> alſo, for all Nations; and therefore for many. All Men (under this Diſpenſation) were to be received into the Number of the People of God, being obliged to repentance and amendment of Life, and upon thoſe terms aſſured of Remiſſion of Sins, and eternal Hap<g ref="char:EOLhyphen"/>pineſs.</p>
+               <p>[<hi>v.</hi> 30.] And when they had ſung an Hymn ac<g ref="char:EOLhyphen"/>cording to the Cuſtom of the Paſſover, they depar<g ref="char:EOLhyphen"/>ted.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>Mark</hi> 14. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> —26.</head>
+               <p>[<hi>v.</hi> 22.] AS Chriſt and his. Diſciples were eating the Paſſover <hi>v.</hi> 12, —28. He took Bread and gave Thanks to God, or Bleſs<g ref="char:EOLhyphen"/>ed him; and brake the Bread, and gave it to his Diſ<g ref="char:EOLhyphen"/>ciples, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſing theſe Words at the giving of it, this is my Body <hi>i. e.</hi> The Bread which I give you to eat, is not any Part of the Paſſover, but is an Appoint<g ref="char:EOLhyphen"/>ment of mine.</p>
+               <p>[<hi>v.</hi> 23.] Chriſt alſo took a Cup of Wine, and af<g ref="char:EOLhyphen"/>ter he had given Thanks unto God, he gave the Cup to his Diſciples, and they all drank of it.</p>
+               <p>[24.] But when he delivered the Cup to them, he told them, what he meant by it, ſaying unto them: This is my Blood of the New Teſtament. <hi>i. e.</hi> The Old Teſtament or Covenant was eſtabliſhed, or the Jewiſh Religion was ſet up, by the Blood of the Sa<g ref="char:EOLhyphen"/>crifice <hi>Ex.</hi> 24. and the ſetting up that Religion, was remembred by the <hi>Jews</hi> at the Paſſover. But the New Covenant or Teſtament was eſtabliſhed by the Blood of Chriſt, and he calls the Wine in the Lord's Supper his Blood of the New Teſtament; becauſe the drinking that Wine, was to be a Memorial of his
+<pb n="24" facs="tcp:63583:13"/>Death, at which the Chriſtian Religion was ſet up; or the New Teſtament or Covenant eſtabliſhed. And that Blood of the New Teſtament, was ſhed for ma<g ref="char:EOLhyphen"/>ny, for <hi>Gentiles,</hi> as well as <hi>Jews <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> i. e.</hi> For Men of all Nations, who were admitted into that Covenant, or who did profeſs that Religion.</p>
+               <p>[25.] He added, according to the manner of ſpeaking which Chriſt frequently us'd (taking a ſi<g ref="char:EOLhyphen"/>militude from the occaſion), I will not celebrate this Feaſt any more while I live; thus eating Bread and drinking Wine, as we have done at the Paſſover; and as I appoint you to do, in the Lord's Supper. But there is a better Joy in the other World, than that of Feaſts; of which nevertheleſs feſtival Joys are a Fi<g ref="char:EOLhyphen"/>gure and Reſemblance; and this Joy you ſhall Par<g ref="char:EOLhyphen"/>take of with me in the Kingdom of Heaven. So <hi>Rev.</hi> 19.9. the Happineſs of Heaven is called the Supper of the Lamb: And <hi>Luke</hi> 16.22. He that was admitted into the Happineſs of Heaven, is ſaid to lye in <hi>Abraham's</hi> Boſom, <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> Poſture was at a Feaſt. And <hi>Luke</hi> 14.15. One <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Bleſſed is he that ſhall eat Bread in the Kingdom of Heaven.</p>
+            </div>
+            <div n="3" type="part">
+               <argument>
+                  <p>
+                     <hi>There are two Paſſages in St.</hi> Luke, <hi>one con<g ref="char:EOLhyphen"/>cerning the Paſſover,</hi> Luke 22.15. —<gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>The other concerning the Lord's Supper,</hi> Luke 22.19, 20.</p>
+               </argument>
+               <head>III.</head>
+               <div n="1" type="part">
+                  <head>
+                     <hi>Luke</hi> 22.15, —18.</head>
+                  <p>[15.] CHRIST ſaid unto his Diſciples, <hi>I have a great Deſire to eat this Paſſover with you before I die</hi>
+                  </p>
+                  <p>[16.] For I ſhall eat this Paſſover but this once more with you for ever: But the Heavenly Joys which are ſignified by a Religious Feaſt, you ſhall partake with me; and in my Religion, which will be ſet up
+<pb n="25" facs="tcp:63583:13"/>at my Death, The Paſſover ſhall ceaſe, and the Lord's Supper ſhall be in uſe.</p>
+                  <p>[<hi>v.</hi> 17.] Then taking a Cup of Wine, as the Cuſtom was among the <hi>Jews</hi> at their Paſſover (which Chriſt now kept with his Diſciples,) and giving Thanks (as their Cuſtom alſo was,) He de<g ref="char:EOLhyphen"/>livered it to the Company to drink.</p>
+                  <p>[18.] And added, That this was the laſt Time He ſhould keep the Paſſover with them; that this was the laſt Cup of Bleſſing, that they ſhould drink to<g ref="char:EOLhyphen"/>gether as the Paſſover: And that after this, there would be no other Religious Feaſt, but the Lord's Supper.</p>
+                  <p>In theſe Verſes St. <hi>Luke</hi> reports what our Saviour did, and ſaid at the Paſſover.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>
+                     <hi>Luke</hi> 22.19.20.</head>
+                  <p>Here he reports the Inſtitution and Celebration of the Lord's Supper.</p>
+                  <p>[19.] <hi>Jeſus after this took Bread and gave Thanks unto God, and brake the Bread, and gave it unto the Diſ<g ref="char:EOLhyphen"/>ciples, and ſaid unto them, This is my Body.</hi> This is neither the Body of the Paſſover, nor any Part of it; but this is a peculiar Appointment of my own, and has Relation to thoſe Sufferings, which I am to Un<g ref="char:EOLhyphen"/>dergo for You; when by my Death I ſhall make a Propitiation for Sin: Obliging You to Repent, and live Religiouſly; and aſſuring thoſe who do ſo Re<g ref="char:EOLhyphen"/>pent, and ſo Live, of the Pardon of their Sins, and of <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Happineſs, according to the Tenor of the New Covenant or Teſtament: <hi>i. e.</hi> According to that Religion which I ſhall ſet up at my Death. Therefore you ſhall hereafter do this in remembrance of me.</p>
+                  <p>[20.] Alſo, after the Paſſover Supper was ended, Chriſt took a Cup of Wine, and ſaid, This Cup is not the Cup of Bleſſing belonging to the <hi>Jewiſh</hi> Paſs<g ref="char:EOLhyphen"/>over, and ſo to the Old Teſtament or Covenant, or <hi>Je<g ref="char:EOLhyphen"/>wiſh</hi> Religion. But it is the New Teſtament or Co<g ref="char:EOLhyphen"/>venant, or <hi>Chriſtian</hi> Religion, that this Cup belongs to: And my Blood (which is very ſuddenly to be ſhed at my Death, which is nigh) is the Blood of
+<pb n="26" facs="tcp:63583:14"/>this Covenant or Teſtament: By my Blood the New Teſtament or Covenant is Eſtabliſhed, and at my Death ſhall my Religion be ſet up. And my Death is for You, for your Advantage, as the Propitiati<g ref="char:EOLhyphen"/>on of Sin, and Confirmation of the New Covenant.</p>
+                  <p>Thus St. <hi>Luke</hi> reports what Chriſt did, and ſaid at the Lord's Supper.</p>
+               </div>
+            </div>
+            <div n="4" type="part">
+               <head>IV. 1 <hi>Cor.</hi> 10.15, 16, 17, 21.</head>
+               <p>IN this Chapter, St. <hi>Paul</hi> diſſuades from Pagani<g ref="char:EOLhyphen"/>zing. The chief Particular in which ſome Chriſti<g ref="char:EOLhyphen"/>ans did Paganize, was in their eating Things offered unto Idols: For whereas the <hi>Gentiles</hi> did make a Feaſt upon the Remains of their Sacrifices, ſome <hi>Chriſtians</hi> did joyn with them in thoſe Feaſts (<hi>Ch.</hi> 8. throughout,) and thoſe Feaſts were Idolatrous.</p>
+               <p>This St. <hi>Paul</hi> diſſuades them from in this <hi>Chapter,</hi> by the Conſideration of thoſe Judgments, which God was like to ſend upon <hi>Chriſtians,</hi> who were his Peo<g ref="char:EOLhyphen"/>ple now, for their Idolatry: As He had ſent Judge<g ref="char:EOLhyphen"/>ments upon the <hi>Jews</hi> of Old for their Idolatry, and other Sins; notwithſtanding they were as much his Peculiar People then, as Chriſtians are now. <hi>Verſe,</hi> 1, —14.</p>
+               <p>St. <hi>Paul</hi> further diſſuades <hi>Chriſtians</hi> from this by the Conſideration of the Oppoſielon that there is between <hi>Chriſtianity</hi> and <hi>Paganiſm;</hi> as much as be<g ref="char:EOLhyphen"/>tween the True God and Falſe Gods: And this He urges <hi>v.</hi> 15—<hi>f.</hi> where He alſo ſtates the Caſe of Eat<g ref="char:EOLhyphen"/>ing what was offered unto Idols, 25—<hi>f. viz.</hi> That when they went to buy Meat in the Shambles, they were not obliged to ask the Queſtion, whether that Fleſh had been Sacrificed to Idols: But only they were not to Joyn in Idol Feaſts, nor ſo to Uſe any Fleſh that had been Sacrificed to Idols, as to ſeem unto others, to eat it as a Thing offered to Idols, ac<g ref="char:EOLhyphen"/>cording to the Idolatry of the Pagans. And</p>
+               <div type="part">
+                  <pb n="27" facs="tcp:63583:14"/>
+                  <head>
+                     <hi>Verſes,</hi> 15, 16, 17, 21.</head>
+                  <p>The Apoſtle ſhows this Oppoſition, by comparing the Lord's Supper, and the Idol-Feaſts; ſuppoſing, that every Religious Feaſt is a Communion or Fel<g ref="char:EOLhyphen"/>lowſhip with that God (be it the True God, or any Falſe God) to whom that Feaſt is dedicated, and who is honoured by it. Therefore,</p>
+                  <p>[<hi>V.</hi> 15.] Says He, I ſpeak to thoſe who are able to Judge of what I ſay: And I leave it to you to Judge for your Selves.</p>
+                  <p>[16.] The Cup of Bleſſing, or that Wine which we Chriſtians drink with Thankſgiving to God, in the Lord's Supper, as it is a Memorial of his Death, ſo it is a Communion of his Blood. By it we have Com<g ref="char:EOLhyphen"/>munion with Chriſt conſidered as dying the Propiti<g ref="char:EOLhyphen"/>ation for Sin; and the Confirmation of the New Covenant or Teſtament; or of that Religion, which was ſet up at his Death; and according to which Re<g ref="char:EOLhyphen"/>ligion we are bound to live. The Bread alſo which we break, and eat in the Lord's Supper, being a Fi<g ref="char:EOLhyphen"/>gure and Memorial of his Death, when his Body was broken is a Communion of the Body of Chriſt, or a Communion with Him, conſidered as dying for Us.</p>
+                  <p>[17.] And the ſame Lord's Supper is a Commu<g ref="char:EOLhyphen"/>nion of Chriſtians one with another, as well as a Communion with Chriſt. For we Chriſtians, be<g ref="char:EOLhyphen"/>ing many Perſons, are One, as belonging to Chriſt (and ſo called his Body), even as the Bread we eat, is one Loaf tho made of many Grains of Wheat. And this Communion of Fellowſhip we Chriſtians have one with another in the Lord's Supper: Where we all drink of the ſame Cup, and eat of the ſame Bread.</p>
+                  <p>[21.] But 'tis no more lawful to Joyn in the Re<g ref="char:EOLhyphen"/>ligious Feaſts of Chriſtians, and in the Idolatrous Feaſts of Pagans, than 'tis to Worſhip the True God, and Falſe Gods. The Wine drank in the Lord's Sup<g ref="char:EOLhyphen"/>per, is the Cup of the Lord; the Wine drank in the Idolatrous Feaſts, is the Cup of Devils (or Falſe Gods.) The Table at which we celebrate the Lord's Supper, may be call'd the Lord's Table; the Table at which they celebrate the Idol-Feaſts, may be call'd the
+<pb n="28" facs="tcp:63583:15"/>Table of Devils. But as we muſt not worſhip De<g ref="char:EOLhyphen"/>vils and God, ſo neither may we drink the Cup of the Lord, and the Cup of Devils: We may not be partakers of the Table of the Lord, and the Table of Devils. Therefore Chriſtians muſt not Paganize, muſt not be partakers in the Idolatrous Feaſts of Pa<g ref="char:EOLhyphen"/>gans; the Lord's Supper being the Chriſtians Religi<g ref="char:EOLhyphen"/>ous Feaſt and we muſt not Worſhip the True God, and Falſe Gods.</p>
+               </div>
+            </div>
+            <div n="5" type="part">
+               <head>V. 1 <hi>Cor.</hi> 11.17, —34.</head>
+               <p>IN this Chapter the Apoſtle reproves the <hi>Corin<g ref="char:EOLhyphen"/>thians</hi> for their Miſrepreſentation, and <hi>Prophana<g ref="char:EOLhyphen"/>tion</hi> of the Lord's Supper, which were introduced, to the great Scandal and Danger of Chriſtianity, by the vicious Diſorders they were guilty of at thoſe Entertainments which were made before the Celebra<g ref="char:EOLhyphen"/>tion of the Lord's Supper among them, as the Paſchal Entertainment was before the Celebration of it by Chriſt and his Apoſtles.</p>
+               <p>[17.] AS to what I hear is done by you, at the Celebration of the Lord's Sup<g ref="char:EOLhyphen"/>per (ſaith St. <hi>Paul;</hi>) I cannot either Juſtify, or <hi>Ex<g ref="char:EOLhyphen"/>cuſe</hi> it, becauſe by your diſorderly Behaviour <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo Solemn an Occaſion, you are Guilty of intolerable Wickedneſs, and Prophaneneſs; and are not (upon the whole) <hi>the better</hi> for the Religious Duty, but <hi>the worſe</hi> for your groſs Immoralities.</p>
+               <p>[18.] I am informed (and have too much Reaſon to believe the Information) that in your Aſſemblies, there are unfriendly and ſcandalous Animoſities a<g ref="char:EOLhyphen"/>mong You. The Judaizing Chriſtians entertain thoſe who are of their own Perſwaſion, with an unchriſti<g ref="char:EOLhyphen"/>an Partiality, neglecting thoſe, who being <hi>Gentile</hi> Converts, differ from them (<hi>Acts</hi> 15. and <hi>Acts</hi> 18, 1 —11.) and not only Violate Charity, at their
+<pb n="29" facs="tcp:63583:15"/>Feaſts of Charity; but alſo Indulge Themſelves to an Exceſs, which is Inexcuſable at all Times, and In<g ref="char:EOLhyphen"/>tolerable at <hi>this.</hi>
+               </p>
+               <p>[19.] Diverſity of Opinions in Matters of Reli<g ref="char:EOLhyphen"/>gion, there will be among the Profeſſors of it: But, by their Good and Religious Behaviour on ſuch Occaſions, thoſe who are <hi>Truly Religious</hi> will be di<g ref="char:EOLhyphen"/>ſtinguiſhed from Others.</p>
+               <p>[20.] Thoſe who are <hi>not Truly</hi> Religious, will by their unchriſtian and vicious <hi>Behaviour,</hi> expoſe Them<g ref="char:EOLhyphen"/>ſelves and their Religion: And when They, in that Vicious Manner, partake of the Lord's Supper, they Provoke God's Wrath againſt them, for Prophaning his Inſtitution.</p>
+               <p>[21.] At the previous Entertainment, They al<g ref="char:EOLhyphen"/>low in Themſelves malicious Animoſity, and ſhame<g ref="char:EOLhyphen"/>ful Exceſs: This is inexcuſably Prophane and Irreli<g ref="char:EOLhyphen"/>gious.</p>
+               <p>[22.] That eating and drinking which is for the Uſe and Neceſſity of Nature, ſhould be in your Private Houſes, and according to the Meaſures of So<g ref="char:EOLhyphen"/>briety: But not to have ſo much <hi>diſtinguiſhing Re<g ref="char:EOLhyphen"/>gard</hi> for the Lord's Supper, as not to Abſtain from groſs Immoralities, when you are about to Celebrate the Lord's Supper; This is a very high Contempt of Religion, and of the Son of God our Saviour.</p>
+               <p>[23.] THAT which I have Taught you concerning the Celebration of the Lord's Supper, I was Taught by Jeſus Chriſt himſelf, the Author of our Religion, and of our Salvation: And that is this.</p>
+               <p>The Lord Jeſus Chriſt in the Eve of that Day on which he Dy'd, Celebrated the Jewiſh Paſſover with his Diſciples, and cloſed that Solemnity, eating Bread, and drinking Wine, with Thankſgiving unto God, for the deliverance Commemorated thereby, according to the cuſtom and uſage of the <hi>Jews</hi> (<hi>Luke</hi> 22.15, —18.)</p>
+               <p>[24.] After this, he took Bread again, and hold<g ref="char:EOLhyphen"/>ing it in his Hand, he gave Thanks unto God, in a form of words ſuitable to the Nature of <hi>this</hi> Inſtitu<g ref="char:EOLhyphen"/>tion, and the Deſign of his <hi>Death</hi> (at which the new State of Religion under the <hi>Meſſiah,</hi> called <hi>the
+<pb n="30" facs="tcp:63583:16"/>Kingdom of God,</hi> and the <hi>New Teſtament</hi> or Covenant, was ſet up: By which, the great <hi>Propitiation</hi> for Sin was made, and the <hi>Salvation</hi> of Men was effected), and having broken the Bread, he gave it to his Diſ<g ref="char:EOLhyphen"/>ciples, and ſaid, Take, and eat this; This Action is the Memorial of my Death, which I Suffer for you, and for mankind: Do this therefore in Remembrance of <hi>Me.</hi>
+               </p>
+               <p>[25.] Alſo (after the Paſſover was ended) he took a Cup of Wine, and holding it in his Hand, he gave Thanks again unto God (in a form of words ſuitable to the Nature of the Inſtitution, and the De<g ref="char:EOLhyphen"/>ſign of his Death: And gave the Cup to his Diſciples, ſaying, <hi>This Action</hi> is the Memorial of my Death, at which the <hi>Blood of the New Teſtament</hi> (or Covenant: <hi>Ex.</hi> 24.8.) is ſhed, and the State of Religion un<g ref="char:EOLhyphen"/>der the <hi>Meſſiah</hi> is ſet up: And the great Propitiation for the Sins of the whole World is made: Drink this therefore in Remembrance of <hi>Me.</hi>
+               </p>
+               <p>[26.] THUS (ſays the Apoſtle) as often as Chriſtians eat this Bread, and drink this Wine of the Lord's Supper, in obedience to the command of our bleſſed Lord, they do a ſo<g ref="char:EOLhyphen"/>lemn Action in Remembrance of him, and his Death, until he come again at the laſt Day (<hi>Acts</hi> 1.11.)</p>
+               <p>[27.] Therefore, whoſoever ſhall perform this ſacred Action; and celebrate the Memorial of Chriſt and his Death, ſo <hi>unworthily,</hi> as not to diſtinguiſh it from the Paſchal Supper, or even from a ſober Feaſt, are liable to the <hi>Judgments</hi> of God, as if (in a Sort) they were Guilty of the Death of his Son.</p>
+               <p>[28.] Let every one then Approve himſelf to Go<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by a <hi>truly Religious</hi> performance of this <hi>ſolemn</hi> Duty.</p>
+               <p>[29.] For he that performs it <hi>ſo unworthily,</hi> as by his Immoralities of Malice and Intemperance at the very time, to Prophane it; will unavoidably bring the <hi>Judgments</hi> of God upon himſelf for ſo doing; not diſtinguiſhing the Lord's Supper from all other eating and drinking; by a religious and devout Cele<g ref="char:EOLhyphen"/>bration of it.</p>
+               <p>[30.] And indeed, 'tis for the Prophanation of the Lord's Supper that ſome of <hi>You</hi> are Sick, and o<g ref="char:EOLhyphen"/>thers
+<pb n="31" facs="tcp:63583:16"/>
+                  <hi>Dead.</hi> The ſickneſs and death among you are the <hi>Judgments</hi> of God upon you for this wicked<g ref="char:EOLhyphen"/>neſs.</p>
+               <p>[31.] But if <hi>ye</hi> would reform theſe Miſcarriages, <hi>God</hi> would withhold thoſe <hi>Judgments.</hi>
+               </p>
+               <p>[32.] For God ſends theſe Judgments upon you in order to your Amendment: That you may not at laſt be eternally damned for your Impenitency.</p>
+               <p>[33, 34.] Wherefore, Brethren, my Exhortation to you, is; That at your Entertainments before the Lord's Supper, ye receive one another with Charity and Chriſtian Friendſhip: And that every one be ſure to eat and drink with exact Temperance.</p>
+               <p>And as for other Matters, I will give you Advice when I ſee you.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <pb facs="tcp:63583:17"/>
+            <head>
+               <hi>BOOKS Printed for</hi> William Rogers, <hi>at the</hi> Sun <hi>againſt St.</hi> Dunſtan<hi>'s Church in</hi> Fleetſtreet.</head>
+            <p>ARchbiſhop <hi>Tillotſons</hi>'s Sermons of the Stedfaſt<g ref="char:EOLhyphen"/>neſs in Religion; of Family-Religion, of E<g ref="char:EOLhyphen"/>ducation of Children, and the Advantage of an ear<g ref="char:EOLhyphen"/>ly Piety: <hi>Twelves,</hi> Price 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>—Perſuaſive to Frequent Communion in the Sacrament of the Lord's Supper: <hi>Octavo,</hi> Price Stitched 3 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>—Diſcourſe againſt Tranſubſtantiation: <hi>Octavo,</hi> Price 3 <abbr>
+                  <hi>d.</hi>
+               </abbr> Stich'd.</p>
+            <p>Two Diſcourſes; the <hi>Firſt</hi> of Evil-Speaking: By his Grace, <hi>John,</hi> late Lord Archbiſhop of <hi>Canterbury.</hi> The <hi>Second</hi> of the Government of the Thoughts: By his Grace, <hi>John,</hi> Lord Archbiſhop of <hi>York:</hi> Both preach'd before their Majeſties, 1694.</p>
+            <p>Biſhop of <hi>Norwich</hi>'s two Sermons of the Wiſdom and Goodneſs of Providence, before the Queen at <hi>White-Hall: Quarto.</hi>
+            </p>
+            <p>—Sermon Preach'd at St. <hi>Andrews Holborn</hi> on <hi>Gal.</hi> 6.7.</p>
+            <p>—Of Religious Melancholy: <hi>Octavo,</hi> Price 3 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>—Of the Immortality of the Soul, preach'd be<g ref="char:EOLhyphen"/>fore the King and Queen at <hi>White Hall,</hi> on <hi>Palm-Sun<g ref="char:EOLhyphen"/>day: Quarto.</hi>
+            </p>
+            <p>—Sermon preach'd before the Houſe of Lords, <hi>Jan.</hi> 30. (97.) <hi>Quarto.</hi>
+            </p>
+            <p>—Thankſgiving-Sermon before the King at St. <hi>James</hi>'s, <hi>April</hi> 16. 1696.</p>
+            <p>Biſhop <hi>Kidder</hi>'s Demonſtration of the Meſſias. Se<g ref="char:EOLhyphen"/>cond Part: <hi>Octavo.</hi>
+            </p>
+            <p>Dr. <hi>Sberlock</hi>'s Practical Diſcourſe on Death: <hi>Octavo,</hi> Price 3 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>—Practical Diſcourſe concerning Future Judge<g ref="char:EOLhyphen"/>ment: Price 3 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>Mr. <hi>Warren</hi>'s Holy Mourner: <hi>Octavo,</hi> Price 3 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>Mr. <hi>Ellis</hi>'s Sum of Chriſtianity: Price bound 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>Mr. <hi>Blackall</hi>'s Sermon preach'd at <hi>Brentwood</hi> in <hi>Eſſex.</hi>
+            </p>
+            <p>Second Defence of the Church of <hi>England,</hi> from the Charge of Schiſm and Hereſie.</p>
+            <p>Dr. <hi>Jeffery</hi>'s Diſcourſe concerning the Nature of the Lord's Supper: Price 3 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <pb facs="tcp:63583:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
